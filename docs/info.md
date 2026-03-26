@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Adds 2 4-bit numbers
+Ands 2 bits
 
 ## How to test
 
-flip the switches to select the 4 bit number
+flip the switches
 
 ## External hardware
 
-LEDs
+LED
