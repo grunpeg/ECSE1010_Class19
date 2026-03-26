@@ -4,7 +4,7 @@ project:
   title:        "And Gate"      # Project title
   author:       "Jusin Brouwer"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "write a desc"      # One line description of what your project does
+  description:  "a singular and gate"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
